@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "https://crew.wjavirtual.org",
+      "host": "https://crew.deltavirtual.org",
       "target": "/dstable",
       "semver": {
         "min": "1.4.0-beta.1",
